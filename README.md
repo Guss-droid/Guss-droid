@@ -16,21 +16,24 @@
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guss-droid&layout=compact)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)]() 
-[![Github followers](https://img.shields.io/github/followers/Guss-droid?color=0D0D0D&logo=Github&logoColor=0D0D0)](https://github/Guss-droid)
-
 <h2 align="center"> My social networks </h2>
 
-<img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" />
-
+<p align="center">
+   
+   <a href="https://discord.gg/syxhzjtCsK">
+     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" />
+   </a>
+      
 <a href="https://www.linkedin.com/in/gustavo-r%C3%A9-6a542a215/">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" />
 </a>
+<p>
 
 <p align="center">
    
   <a href="https://github.com/Guss-droid?tab=repositories&sort=stargazers">
-    <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Guss-droid"/></a>
+   <img alt="stars" title="Total stars on GitHub" 
+   src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Guss-droid"/></a>
   <a href="https://github.com/Guss-droid?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Guss-droid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
