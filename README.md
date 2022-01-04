@@ -27,6 +27,10 @@
 <a href="https://www.linkedin.com/in/gustavo-r%C3%A9-6a542a215/">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" />
 </a>
+   
+   <a href="https://instagram.com/guh_re" target="blank"> 
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" width="40" />
+   </a>
 <p>
 
 <p align="center">
