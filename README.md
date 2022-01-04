@@ -25,10 +25,9 @@
 
 <p align="center">
    
-  <a href="https://github.com/ajvideira?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Guss-droid?tab=repositories&sort=stargazers">
     <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Guss-droid"/></a>
-  <a href="https://github.com/ajvideira?tab=followers">
+  <a href="https://github.com/Guss-droid?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Guss-droid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Guss-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Guss-droid" /> </p>
