@@ -4,7 +4,7 @@
 <h2 align="center"> About myself </h2>
 
 - 🌱 I'm currently studying programming by RocketSeat
-- 👀 I’m interested in `React Native and NodeJs`
+- 👀 I’m interested in `React Native, NodeJs and NextJs`
 - 💬 Ask me about `React and Typescrpit`
 - 🖐️ Pronouns: Him/His
 - 💼 Looking for job
