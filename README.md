@@ -8,13 +8,13 @@
 - 💬 Ask me about `React and Typescrpit`
 - 🖐️ Pronouns: Him/His
 - 💼 Looking for job
-- 📫 Send an email to gustavo.re@inforoute.com.br
+- 📫 Send an email to gustavore2019@gmail.com
 
 <h2 align="center"> Github stats </h2>
 
 ![Gustavo github stats](https://github-readme-stats.vercel.app/api?username=Guss-droid&show_icons=true&theme=dark)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guss-droid&layout=compact)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guss-droid&layout=compact&theme=dark)
 
 <h2 align="center"> My social networks </h2>
 
