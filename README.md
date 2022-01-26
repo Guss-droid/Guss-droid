@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi There, I’m Gustavo Ré </h1> 
-<br />
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi There, I’m Gustavo Ré </h1> 
+<img src="https://komarev.com/ghpvc/?username=Guss-droid&color=blue" alt="Profile views" />
+<br/>
 
-<h2 align="center"> About myself </h2>
 
 - 🌱 I'm currently studying programming by RocketSeat
 - 👀 I’m interested in `React Native, NodeJs and NextJs`
