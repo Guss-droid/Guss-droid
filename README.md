@@ -20,10 +20,6 @@
 
 <p align="center">
    
-   <a href="https://discord.gg/syxhzjtCsK">
-     <img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" />
-   </a>
-      
 <a href="https://www.linkedin.com/in/gustavo-r%C3%A9-6a542a215/">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" />
 </a>
