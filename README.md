@@ -20,7 +20,7 @@
 
 <p align="center">
    
-<a href="https://www.linkedin.com/in/gustavo-r%C3%A9-6a542a215/">
+<a href="https://www.linkedin.com/in/gustavo-re/">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" />
 </a>
    
