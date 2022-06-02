@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi There, I’m Gustavo Ré </h1> 
+<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hi There, I’m Gustavo Ré </h1> 
 <img src="https://komarev.com/ghpvc/?username=Guss-droid&color=blue" alt="Profile views" />
 <br/>
 
