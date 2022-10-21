@@ -3,9 +3,8 @@
 <br/>
 
 
-- 🌱 I'm currently studying programming by RocketSeat
-- 👀 I’m interested in `React Native, NodeJs and NextJs`
-- 💬 Ask me about `React and Typescrpit`
+- 🌱 I'm currently studying programming
+- 💬 Ask me about `React, Typescrpit, NestJs, NodeJs and NextJs`
 - 🖐️ Pronouns: Him/His
 - 💼 Looking for job
 - 📫 Send an email to gustavore2019@gmail.com
